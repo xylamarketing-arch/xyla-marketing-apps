@@ -1,2 +1,6 @@
 streamlit
 supabase
+apify-client
+requests
+pyjwt
+pandas
